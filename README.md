@@ -1,5 +1,4 @@
-#  National Rail UK Ticket Data Analysis (Jan - Apr 2024)
-
+#  Optimizing Efficiency in Soda Bottling Production Line
 
 In this project, I analyzed Productivity & downtime data for a soda bottling production line, including information on the operator, product, start & end times, and dowtime factors for each batch.
 
